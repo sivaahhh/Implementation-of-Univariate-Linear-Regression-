@@ -1,6 +1,7 @@
 # Implementation-of-Univariate-Linear-Regression-
 
 AIM:
+
 To implement univariate Linear Regression to fit a straight line using least squares.
 
 Equipments Required:
